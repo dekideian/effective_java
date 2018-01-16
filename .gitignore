@@ -1,0 +1,16 @@
+.vscode
+node_modules
+
+.xmake/
+gen/
+
+Creating
+Installing
+Nodejs
+import/
+package-lock.json
+
+.classpath
+.project
+.settings/
+WebContent/
